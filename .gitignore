@@ -1,0 +1,21 @@
+**allure-results**
+**allure-report**
+venv
+
+#Pycharm
+.idea
+
+__pycache__/
+functions/__pycache__
+
+*.DS_Store*
+
+.Python
+env/
+bin/
+build/
+
+#Vs code
+*.code-workspace
+.vscode/
+*.vscode
