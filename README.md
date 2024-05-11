@@ -37,6 +37,11 @@ brew install --cask android-studio
 
 ![img_1.png](img_1.png)
 
+## Cambie la ruta del apk apuntando hacia la nuevo path dentro del archivo setup/devices
+![img_5.png](img_5.png)
+
+![img_6.png](img_6.png)
+
 ## Ejeute el archivo behave_runner.py
 python src/behave_runner.py
 
