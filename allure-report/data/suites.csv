@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri May 10 18:11:22 CST 2024","Fri May 10 18:11:40 CST 2024","18340","","","","","","En el que valido la app con diferentes contraseñas y passwords -- @1.3 ",""
+"passed","Fri May 10 18:10:37 CST 2024","Fri May 10 18:10:50 CST 2024","13034","","","","","","En el que valido que el registro con nombre David Chavez Avila se muestre en la pantalla de Consultar Registros -- @1.3 ",""
+"passed","Fri May 10 18:10:51 CST 2024","Fri May 10 18:11:02 CST 2024","11507","","","","","","En el que valido la app con diferentes contraseñas y passwords -- @1.1 ",""
+"broken","Fri May 10 18:11:02 CST 2024","Fri May 10 18:11:22 CST 2024","19850","","","","","","En el que valido la app con diferentes contraseñas y passwords -- @1.2 ",""
+"passed","Fri May 10 18:10:07 CST 2024","Fri May 10 18:10:22 CST 2024","15604","","","","","","En el que valido que el registro con nombre David Chavez Avila se muestre en la pantalla de Consultar Registros -- @1.1 ",""
+"passed","Fri May 10 18:10:22 CST 2024","Fri May 10 18:10:37 CST 2024","14512","","","","","","En el que valido que el registro con nombre David Chavez Avila se muestre en la pantalla de Consultar Registros -- @1.2 ",""

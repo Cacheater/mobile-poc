@@ -1,0 +1,46 @@
+{
+  "Emulador": {
+    "platformName": "Android",
+    "automationName": "UiAutomator2",
+    "deviceName": "Pixel_3a",
+    "udid": "emulator-5556",
+    "platformVersion": "14",
+    "app": "/Users/fabiansolano/PycharmProjects/mobile-poc/src/app_demo.apk",
+    "browserName": "chrome",
+    "noReset": "true",
+    "fullReset": "false",
+    "adbExecTimeout": "180000",
+    "newCommandTimeout": "120",
+    "enableMultiWindows": "true",
+    "appPackage": "com.mate_app",
+    "appActivity": "com.mate_app.MainActivity",
+    "appWaitActivity": "com.mate_app/com.mate_app.MainActivity",
+    "appWaitPackage": "",
+    "appWaitDuration": "180000",
+    "appWaitForLaunch": "false",
+    "setup": {
+      "url_appium_server": "http://localhost:4724"
+    },
+    "kobiton_sesion": {
+      "sessionName": "automation framework",
+      "sessionDescription": "test desde automation framework",
+      "deviceOrientation": "portrait",
+      "captureScreenshots": true,
+      "deviceGroup": "ORGANIZATION",
+      "groupId": ""
+    }
+  },
+  "kb_moto_one": {
+    "setup": {
+      "url_appium_server": "http://<KB_USER>:<KB_API_KEY>@api.kobiton.com/"
+    },
+    "kobiton_sesion": {
+      "sessionName": "automation framework",
+      "sessionDescription": "test desde automation framework",
+      "deviceOrientation": "portrait",
+      "captureScreenshots": true,
+      "deviceGroup": "ORGANIZATION",
+      "groupId": ""
+    }
+  }
+}
