@@ -42,6 +42,21 @@ brew install --cask android-studio
 
 ![img_6.png](img_6.png)
 
+## instale node
+brew install node
+
+## instale appium
+mac
+
+npm i --location=global appium
+
+win
+
+choco install nodejs.install
+
+## Abra una terminal y ejecute appium
+appium -p 4724
+
 ## Ejeute el archivo behave_runner.py
 python src/behave_runner.py
 
@@ -50,7 +65,7 @@ cd src
 
 behave -f allure_behave.formatter:AllureFormatter -o allure-results -f pretty features/
 
-##Cuando termine la ejecucion ejecute los 2 siguientes comandos
+## Cuando termine la ejecucion ejecute los 2 siguientes comandos
 
 allure generate ./allure-results --output ./allure-report --clean
 
