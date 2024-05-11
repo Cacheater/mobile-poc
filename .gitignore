@@ -19,3 +19,5 @@ build/
 *.code-workspace
 .vscode/
 *.vscode
+
+.idea/mobile-poc.iml
